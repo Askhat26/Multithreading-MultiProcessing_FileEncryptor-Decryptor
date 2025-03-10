@@ -7,8 +7,7 @@ This project implements a high-performance file encryption and decryption system
 - **Multithreading**: Uses a thread pool to process encryption and decryption tasks concurrently.
 - **Multiprocessing**: Utilizes shared memory and semaphores for inter-process communication.
 - **Task Queue**: Implements a queue-based task management system with synchronization.
-- **Secure Encryption**: Uses modern cryptographic techniques for file encryption and decryption.
-- **Scalability**: Can handle large numbers of tasks efficiently.
+
 
 ## Installation
 ### Prerequisites
